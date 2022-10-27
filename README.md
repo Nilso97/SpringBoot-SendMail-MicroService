@@ -1,1 +1,1 @@
-# SpringBoot-MicroService-SendMail
+# SendMail MicroService SpringBoot + PostgreSQL
